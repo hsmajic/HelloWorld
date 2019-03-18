@@ -1,0 +1,14 @@
+.root  {
+-fx-background-color: BDD3DE;
+}
+
+.label {
+-fx-font-size: 20px;
+-fx-text-fill: 2B3A42;
+}
+
+.button {
+-fx-background-color: 2B3A42;
+-fx-font-size: 18px;
+-fx-text-fill: #272c35;
+}
